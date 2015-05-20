@@ -5,5 +5,8 @@ def dodawanie():
     b=int(input())
     c=a+b
     print (c)
+def get_info():
+    print('to jest prosty program kalkulator')
+
 
 dodawanie ()
